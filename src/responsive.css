@@ -1,0 +1,8 @@
+@media (max-width: 992px) {
+    .JokeList-sidebar {
+        width: 100%;
+    }
+    .JokeList-jokes {
+        width: 100%;
+    }
+}
